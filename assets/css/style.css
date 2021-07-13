@@ -1,0 +1,16 @@
+header {
+    background-color: #ffffff;
+    border-color: #ffffff;
+}
+nav {
+    float: right;
+}
+h1 {
+    background: #4aaaa5;
+    font: #777777;
+    border-color: #cccccc;
+
+}
+p {
+    font: #777777;
+}
