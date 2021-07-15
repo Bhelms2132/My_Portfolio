@@ -1,9 +1,12 @@
+body {
+    position: relative;
+}
 header {
     background-color: #ffffff;
-    border-color: #ffffff;
+    border-color: #fde7e7;
 }
 nav {
-    float: right;
+    
 }
 h1 {
     background: #4aaaa5;
@@ -13,4 +16,6 @@ h1 {
 }
 p {
     font: #777777;
+    float: right;
+    position: absolute;
 }
