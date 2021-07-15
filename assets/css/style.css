@@ -1,21 +1,8 @@
-body {
-    position: relative;
-}
-header {
-    background-color: #ffffff;
-    border-color: #fde7e7;
-}
-nav {
-    
-}
-h1 {
-    background: #4aaaa5;
-    font: #777777;
-    border-color: #cccccc;
+nav{
+    text-align: center;
+    margin: auto;
+    background-color: rgb(15, 14, 14);
+    padding: 20px;
+    color: whitesmoke;
 
-}
-p {
-    font: #777777;
-    float: right;
-    position: absolute;
 }
