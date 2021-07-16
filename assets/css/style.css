@@ -1,8 +1,9 @@
-nav{
-    text-align: right;
-    margin: auto;
-    background-color: rgb(15, 14, 14);
-    padding: 20px;
-    color: whitesmoke;
-
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #fafafa;
+}
+.nav {
+  background-color: #161c91;
+  color: #fafafa;
+  
 }
