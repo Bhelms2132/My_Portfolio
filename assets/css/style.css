@@ -22,6 +22,8 @@ hr.solid{
   margin-top: 0px;
   margin-bottom: 20px;
 }
+
+/*---Hero Image-------------------*/
 img {
   border-radius: 50%;
   padding: 10px;
@@ -29,13 +31,16 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
-
 .hero-img {
   padding: 10px;
 }
+/*-------------------------------*/
+
+/*---Greeting-------------------*/
 .greeting {
   text-align: center;
   margin-top: 50px;
   margin-right: 50px;
 }
+/*------------------------------*/
 
