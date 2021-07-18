@@ -3,7 +3,10 @@ body {
   background-color: #fafafa;
   
 }
-
+.row {
+  background-color: aqua;
+  margin: auto;
+}
 
 /*----Top Nav Bar Icons-------------*/
 .nav {
@@ -43,4 +46,9 @@ img {
   margin-right: 50px;
 }
 /*------------------------------*/
+
+/*---About Me-------------------*/
+.card {
+  background-color: yellow;
+}
 
