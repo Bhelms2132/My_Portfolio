@@ -1,7 +1,8 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   background-color: #fafafa;
-  margin: 20px;
+  margin: 10px;
+  height: auto;
 }
 .row {
   background-color: aqua;
@@ -26,6 +27,10 @@ hr.solid{
   margin-bottom: 20px;
 }
 
+div.row {
+  height: 664px;
+}
+
 /*---Hero Image-------------------*/
 img {
   border-radius: 50%;
@@ -41,14 +46,12 @@ img {
 
 /*---Greeting-------------------*/
 div.col-md-6 {
-  margin-top: 20px;
-  padding-top: 20px;
-  margin-bottom: 20px;
-  padding-bottom: 20px;
+  margin: auto;
+  height: auto;
 }
-.greeting {
+div.greeting {
   text-align: center;
-  margin-top: 10px;
+  margin: auto;
 }
 /*------------------------------*/
 
