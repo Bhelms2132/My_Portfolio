@@ -40,6 +40,12 @@ img {
 /*-------------------------------*/
 
 /*---Greeting-------------------*/
+div.col-md-6 {
+  margin-top: 20px;
+  padding-top: 20px;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
 .greeting {
   text-align: center;
   margin-top: 10px;
