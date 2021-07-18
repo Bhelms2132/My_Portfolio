@@ -1,7 +1,7 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   background-color: #fafafa;
-  
+  margin: 20px;
 }
 .row {
   background-color: aqua;
@@ -10,7 +10,7 @@ body {
 
 /*----Top Nav Bar Icons-------------*/
 .nav {
-  background-color: #fafafa;
+  background-color: blue;
 }
 .nav-link {
   color: #ff4a03;
@@ -42,8 +42,7 @@ img {
 /*---Greeting-------------------*/
 .greeting {
   text-align: center;
-  margin-top: 50px;
-  margin-right: 50px;
+  margin-top: 10px;
 }
 /*------------------------------*/
 
