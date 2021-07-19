@@ -28,20 +28,19 @@ hr.solid{
 }
 
 div.row {
-  height: 664px;
+  height: 575px;
 }
 
 /*---Hero Image-------------------*/
 img {
-  border-radius: 50%;
   padding: 10px;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  max-width: 100%;
+  height: auto;
 }
-.hero-img {
-  padding: 10px;
-}
+
 /*-------------------------------*/
 
 /*---Greeting-------------------*/
