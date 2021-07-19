@@ -70,3 +70,14 @@ p {
   margin: 20px;
   padding: 10px;
 }
+
+/*---Technologies and Frameworks------*/
+#html{
+  color: orangered;
+}
+#css {
+  color: blue;
+}
+#js {
+  color: yellow;
+}
