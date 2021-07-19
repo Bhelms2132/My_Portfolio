@@ -3,16 +3,16 @@ body {
   background-color: #fafafa;
   margin: 10px;
   height: auto;
- position: relative;
+  position: relative;
 }
 .row {
-  background-color: aqua;
+  background-color: #fafafa;
   margin: auto;
 }
 
 /*----Top Nav Bar Icons-------------*/
 .nav {
-  background-color: blue;
+  background-color: #fafafa;
 }
 .nav-link {
   color: #ff4a03;
@@ -57,10 +57,15 @@ div.greeting {
 
 /*---About Me-------------------*/
 .card {
-  background-color: yellow;
-  width: 100%;
+  background-color: #f2f2f2;
+  margin: auto;
+  float: none;
+  margin-bottom: 10px;
 }
 h6 {
   text-align: left;
-  
+  font-weight: 100;
+}
+p {
+
 }
