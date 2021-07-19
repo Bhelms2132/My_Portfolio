@@ -64,7 +64,7 @@ div.greeting {
 }
 h6 {
   text-align: left;
-  font-weight: 100;
+  font-weight: bolder;
 }
 p {
   margin: 20px;
@@ -72,12 +72,15 @@ p {
 }
 
 /*---Technologies and Frameworks------*/
-#html{
-  color: orangered;
+.brands {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-gap: 1rem;
+  list-style-type: none;
 }
-#css {
-  color: blue;
-}
-#js {
-  color: yellow;
+
+.brands__item img {
+  display: block;
+  /* Make sure max-width is added */
+  max-width: 100%;
 }
