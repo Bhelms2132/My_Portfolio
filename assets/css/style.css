@@ -55,6 +55,9 @@ div.greeting {
 /*------------------------------*/
 
 /*---About Me-------------------*/
+#about-me {
+  color: #ff4a03;
+}
 .card {
   background-color: #f2f2f2;
   margin: auto;
@@ -72,6 +75,9 @@ p {
 }
 
 /*---Technologies and Frameworks------*/
+#tech-used {
+  color: #ff4a03;
+}
 .brands {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
@@ -86,6 +92,9 @@ p {
 /*---------------------------------------*/
 
 /*---Projects----------------------------*/
+#title-projects {
+  color: #ff4a03;
+}
 #projects {
  padding: 16px;
 }
