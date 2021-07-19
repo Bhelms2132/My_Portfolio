@@ -3,6 +3,7 @@ body {
   background-color: #fafafa;
   margin: 10px;
   height: auto;
+ position: relative;
 }
 .row {
   background-color: aqua;
@@ -57,5 +58,9 @@ div.greeting {
 /*---About Me-------------------*/
 .card {
   background-color: yellow;
+  width: 100%;
 }
-
+h6 {
+  text-align: left;
+  
+}
