@@ -3,16 +3,19 @@ body {
   margin: 0;
   
 }
-#coding-logo {
-  color: #0dcaf0;
-  background-color: #cccccc;
-  background-size: cover;
+#logo {
+  color:  #ff4000;
+  text-align: center;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   
 }
 .hero-image {
-  background-image: url("/assets/images/IMG_E0543.JPG");
-  background-color: #cccccc;
-  height: 500px;
+  background-image: url("../images/");
+  background-color: #000000;
+  height: 664px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -20,4 +23,19 @@ body {
 #hero-greeting {
   font-size: 50px;
   text-align: center;
+  color:  #ff4000;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+#hero-intro {
+  color:#ff4000;
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-55%, -50%);
+  margin-top: 10px;
+  font-size: 25px;
+
 }
