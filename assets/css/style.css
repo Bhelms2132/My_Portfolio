@@ -1,7 +1,23 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background-color: #fafafa;
-  margin: 1.5rem;
-  padding: auto;
-  position: relative;
+  margin: 0;
+  
+}
+#coding-logo {
+  color: #0dcaf0;
+  background-color: #cccccc;
+  background-size: cover;
+  
+}
+.hero-image {
+  background-image: url("/assets/images/IMG_E0543.JPG");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#hero-greeting {
+  font-size: 50px;
+  text-align: center;
 }
