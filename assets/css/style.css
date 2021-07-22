@@ -33,9 +33,10 @@ body {
   color:#ff4000;
   position: absolute;
   top: 55%;
-  left: 50%;
+  left: 52%;
   transform: translate(-55%, -50%);
   margin-top: 10px;
   font-size: 25px;
-
+  text-align: center;
+  padding-top: 20px;
 }
