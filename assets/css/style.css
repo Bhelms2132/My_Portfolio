@@ -2,10 +2,25 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
 }
-/*----------------Home Page-----------------------------*/
-#nav-icons {
+/*----------------Home-Page-----------------------------*/
+ 
+/*---------------Start-Nav-Bar--------------------------*/
+nav {
+  background-color: aqua;
+}
+.nav-icons {
+  list-style-type: none;
   color: #ff4000;
 }
+.nav-item {
+  display: inline;
+}
+.nav-link {
+  color: #ff4000;
+  display: inline;
+}
+/*------------End-Nav-Bar--------------------------------*/
+
 
 .logo {
   color:  #ff4000;
