@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 /*---------------Nav-Bar--------------------------*/
@@ -40,6 +41,10 @@ nav {
   transition: all 0.3s ease;
 }
 /*------------------------------------------------*/
+
+section {
+  height: 100vh;
+}
 
 /*--Media-Queries---------------------------------*/
 @media  screen and (max-width:1024px) {
