@@ -42,11 +42,27 @@ nav {
 }
 /*------------------------------------------------*/
 
+
+
 section {
   height: 100vh;
+  color: whitesmoke;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+#home {
+  background: rgb(226, 225, 238);
+}
+#about {
+  background: rgb(123, 160, 190);
+}
+#projects {
+  background: rgb(209, 114, 169);
+}
+#contact {
+  background: burlywood;
 }
 
 /*--Media-Queries---------------------------------*/
